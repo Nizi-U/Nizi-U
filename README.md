@@ -7,9 +7,9 @@
 
 *MySQL
 
-#🖥️Programming Languages
-#🌎Linguistics
-#🧑‍💻My Github Stats
+# 🖥️Programming Languages
+# 🌎Linguistics
+# 🧑‍💻My Github Stats
 
 ![Nizi-U's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nizi-U&show_icons=true&theme=radical)    
 &nbsp;
@@ -24,7 +24,7 @@
 
 
 
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 
 
