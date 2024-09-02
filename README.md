@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/AWS-EE4C2C?style=for-the-badge&logo=AWS&logoColor=white">
 
 # 🌎Linguistics
-- TOEIC: 860
-- TOEIC SPEAKING: IL
-- TOEIC WRITING: AL
+- *TOEIC: 860
+- *TOEIC SPEAKING: IL
+- *TOEIC WRITING: AL
  
 # 🧑‍💻My Github Stats
 
