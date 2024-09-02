@@ -4,9 +4,9 @@
 &nbsp;
 
 &nbsp;
-🖥️#Programming Languages
-🌎#Linguistics
-🧑‍💻#My Github Stats
+#🖥️Programming Languages
+#🌎Linguistics
+#🧑‍💻My Github Stats
 
 ![Nizi-U's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nizi-U&show_icons=true&theme=radical)    
 &nbsp;
