@@ -5,7 +5,7 @@
 
 &nbsp;
 
-#MySQL
+*MySQL
 
 #🖥️Programming Languages
 #🌎Linguistics
