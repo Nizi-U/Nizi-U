@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=400&section=header&text=안녕하세요.&fontSize=90)
+![Nizi-U's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nizi-U&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizi-U&layout=compact)
 <!--
 **Nizi-U/Nizi-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
