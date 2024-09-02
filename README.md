@@ -5,11 +5,18 @@
 
 &nbsp;
 
-*MySQL
 
 # 🖥️Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-EE4C2C?style=for-the-badge&logo=AWS&logoColor=white">
+
 # 🌎Linguistics
+- TOEIC: 860
+- TOEIC SPEAKING: IL
+- TOEIC WRITING: AL
+ 
 # 🧑‍💻My Github Stats
+
 
 ![Nizi-U's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nizi-U&show_icons=true&theme=radical)    
 &nbsp;
@@ -24,7 +31,7 @@
 
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 
 
 
