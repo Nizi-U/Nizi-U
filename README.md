@@ -17,20 +17,20 @@
 </div>
 
 &nbsp;
+&nbsp;
 
 # 🌎Linguistics
 - *TOEIC: 860
 - *TOEIC SPEAKING: IL
 - *TOEIC WRITING: AL
-- 
- &nbsp;
+
+&nbsp;
+&nbsp;
 
 # 🧑‍💻My Github Stats
 
 
 ![Nizi-U's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nizi-U&show_icons=true&theme=radical)    
-&nbsp;
-
 &nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizi-U&layout=compact)    
