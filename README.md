@@ -7,7 +7,8 @@
 
 
 # 🖥️Programming Languages
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
+# !(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
