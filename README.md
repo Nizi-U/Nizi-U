@@ -22,9 +22,9 @@
 &nbsp;
 
 # 🌎Linguistics
-- ###TOEIC: 860
-- ###TOEIC SPEAKING: IL
-- ###TOEIC WRITING: AL
+- ### TOEIC: 860
+- ### TOEIC SPEAKING: IL
+- ### TOEIC WRITING: AL
 
 &nbsp;
 
