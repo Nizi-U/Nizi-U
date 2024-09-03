@@ -22,9 +22,9 @@
 &nbsp;
 
 # 🌎Linguistics
-- *TOEIC: 860
-- *TOEIC SPEAKING: IL
-- *TOEIC WRITING: AL
+- *TOEIC: 860*
+- *TOEIC SPEAKING: IL*
+- *TOEIC WRITING: AL*
 
 &nbsp;
 
@@ -33,7 +33,7 @@
 # 🧑‍💻My Github Stats
 
 
-![Nizi-U's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nizi-U&show_icons=true&theme=radical)    
+![Nizi-U's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nizi-U&layout=compact)    
 &nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizi-U&layout=compact)    
