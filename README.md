@@ -3,9 +3,6 @@
 
 &nbsp;
 
-&nbsp;
-
-
 # 🖥️Programming Languages, Library, Framework
 
 
@@ -19,12 +16,15 @@
     <br>
 </div>
 
+&nbsp;
 
 # 🌎Linguistics
 - *TOEIC: 860
 - *TOEIC SPEAKING: IL
 - *TOEIC WRITING: AL
- 
+- 
+ &nbsp;
+
 # 🧑‍💻My Github Stats
 
 
@@ -32,9 +32,6 @@
 &nbsp;
 
 &nbsp;
-
-&nbsp;
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizi-U&layout=compact)    
 
